@@ -7,6 +7,7 @@ The system does not pick stocks and does not generate trades. It converts a stre
 **Status:** in production. 48 documented revisions since v2.0 (July 2026).
 Position sizes, entry prices, and returns are deliberately excluded from this document.
 This repository documents the system's design. The system itself runs as a versioned document inside an agent workspace; no source code is published here.
+
 ---
 
 ## The problem it was built to solve
